@@ -65,7 +65,7 @@
     "rimraf": "^3.0.2",
     "stylelint": "^13.7.2",
     "stylelint-config-shopify": "^7.4.0",
-    "webpack": "^4.44.2",
+    "webpack": "^5.94.0",
     "webpack-bundle-analyzer": "^3.9.0"
   },
   "resolutions": {
